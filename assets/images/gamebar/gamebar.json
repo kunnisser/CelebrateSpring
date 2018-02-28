@@ -1,0 +1,52 @@
+{"frames": {
+
+"infobar.png":
+{
+	"frame": {"x":0,"y":0,"w":993,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":993,"h":94},
+	"sourceSize": {"w":993,"h":94}
+},
+"panel.png":
+{
+	"frame": {"x":0,"y":94,"w":993,"h":438},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":993,"h":438},
+	"sourceSize": {"w":993,"h":438}
+},
+"prizebar.png":
+{
+	"frame": {"x":0,"y":532,"w":993,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":993,"h":94},
+	"sourceSize": {"w":993,"h":94}
+},
+"rankbar.png":
+{
+	"frame": {"x":0,"y":626,"w":993,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":993,"h":94},
+	"sourceSize": {"w":993,"h":94}
+},
+"rulebar.png":
+{
+	"frame": {"x":0,"y":720,"w":993,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":993,"h":94},
+	"sourceSize": {"w":993,"h":94}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "gamebar.png",
+	"format": "RGBA8888",
+	"size": {"w":993,"h":814},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d566aa95d4c5b24972079e76b83fa22a:83e077213ed737814989237c217f9526:408ef60a80616efd21ec612d8cd2a1ad$"
+}
+}
